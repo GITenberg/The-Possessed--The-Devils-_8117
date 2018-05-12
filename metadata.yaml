@@ -1,5 +1,5 @@
 _repo: The-Possessed--The-Devils-_8117
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Garnett, Constance
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Constance_Garnett
     - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -46,6 +49,8 @@ description: "Demons (Russian: Бесы, Bésy) is a novel by Fyodor Dostoyevsky
   \ childhood teacher), are presented as the unconscious progenitors and helpless\
   \ accomplices of the 'demonic' forces that take possession of the town.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8117#The-Possessed--The-Devils-
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
